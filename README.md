@@ -21,7 +21,7 @@ Commanded by remote expert Pilots in teams of four, CyberPersons are the ultimat
 ## Instruction
 
 ```
-git clone https://github.com/blackmores519/MetaWar.git
+git clone https://github.com/Jonas-sebera/MetaWar.git
 cd MetaWar
 npm install
 npm run start
